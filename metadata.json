@@ -1,0 +1,6 @@
+{
+  "name": "مركز التطوير التكنولوجي - نظام إدارة أعطال الأجهزة",
+  "description": "نظام متكامل لمتابعة وإدارة أعطال الأجهزة في مدارس الإدارات التعليمية بمحافظة البحيرة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
